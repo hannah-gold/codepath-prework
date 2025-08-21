@@ -12,14 +12,16 @@ The following **required** functionality is completed:
 
 - [x] Users are see a screen with three labels and a button
 - [x] Tapping the button changes the screen color to a random color
- 
-## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
+<div>
+    <a href="https://www.loom.com/share/f09508c2c6e642e3b027965d58ad0320">
+    </a>
+    <a href="https://www.loom.com/share/f09508c2c6e642e3b027965d58ad0320">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f09508c2c6e642e3b027965d58ad0320-29f86b3c12562c00-full-play.gif">
+    </a>
+  </div>
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
-## App Brainstorming (Step 4)
+## App Brainstorming
 
 1. Pinterest
 - Personalized recommendations based on saved pins
@@ -49,7 +51,7 @@ Describe any challenges encountered while building the app.
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Hannah Gold]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
