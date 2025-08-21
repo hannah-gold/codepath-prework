@@ -38,10 +38,10 @@
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wtL-mU-ttk">
-                                <rect key="frame" x="101" y="418" width="75" height="35"/>
+                                <rect key="frame" x="74" y="418" width="129" height="35"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="plain" title="Button">
+                                <buttonConfiguration key="configuration" style="plain" title="Change Color">
                                     <backgroundConfiguration key="background">
                                         <color key="backgroundColor" systemColor="systemMintColor"/>
                                     </backgroundConfiguration>
